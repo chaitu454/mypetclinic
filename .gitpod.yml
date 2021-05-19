@@ -6,6 +6,7 @@ tasks:
 # exposed ports
 ports:
 - port: 8080
+  onOpen: ignore
 
 vscode:
   extensions:
